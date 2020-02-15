@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+.post {
+  width: 100%;
+  border: 1px solid lightgray;
+  font-size: 16px;
+  padding: 5px;
+  margin-bottom: 15px;
+  background: #fafafa;
+  box-shadow: 0 0 3px #eaeaea;
+  page-break-inside: avoid; }
+
+.block {
+  height: 70px;
+  padding: 20px;
+  border: 1px solid lightgray; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    each post in posts
+        div(class='post')
+          h3 #{post.header}
+          div(class='block')
+            div #{post.text}
+
+
